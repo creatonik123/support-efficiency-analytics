@@ -1,0 +1,81 @@
+ticket_id,customer_id,created_at,resolved_at,channel,category,priority,status,agent_name,satisfaction_rating,message_text
+T1000,C399,2025-02-20 22:00:00,2025-02-21 18:00:00,Email,Refund,Urgent,In Progress,John Carter,4,Customer reported a concern regarding General Inquiry.
+T1001,C932,2025-01-04 04:00:00,2025-01-06 10:00:00,Chat,Billing,Urgent,In Progress,Sarah Malik,3,Customer reported a concern regarding Refund.
+T1002,C864,2025-02-15 09:00:00,2025-02-15 23:00:00,Email,Technical Issue,Urgent,Closed,John Carter,5,Customer reported a issue regarding Refund.
+T1003,C728,2025-01-08 00:00:00,2025-01-08 14:00:00,App,Billing,Low,Open,Sarah Malik,5,Customer reported a query regarding Account.
+T1004,C960,2025-01-07 19:00:00,2025-01-09 03:00:00,App,Account,Low,Open,Sarah Malik,1,Customer reported a issue regarding Refund.
+T1005,C682,2025-02-20 19:00:00,2025-02-21 05:00:00,Chat,Account,Medium,In Progress,Sarah Malik,3,Customer reported a issue regarding Technical Issue.
+T1006,C263,2025-02-11 10:00:00,2025-02-12 13:00:00,Email,General Inquiry,Medium,Open,John Carter,3,Customer reported a problem regarding Account.
+T1007,C654,2025-01-01 02:00:00,2025-01-03 20:00:00,Email,Technical Issue,Low,In Progress,Aisha Khan,1,Customer reported a concern regarding Technical Issue.
+T1008,C397,2025-02-23 19:00:00,2025-02-25 01:00:00,Email,Technical Issue,Medium,Closed,John Carter,2,Customer reported a query regarding Account.
+T1009,C205,2025-01-01 07:00:00,2025-01-03 23:00:00,Chat,Technical Issue,Medium,Open,Sarah Malik,5,Customer reported a issue regarding Billing.
+T1010,C778,2025-01-09 12:00:00,2025-01-11 20:00:00,App,Technical Issue,High,Resolved,Rahul Verma,4,Customer reported a issue regarding General Inquiry.
+T1011,C361,2025-01-13 00:00:00,2025-01-13 19:00:00,Email,Billing,Medium,In Progress,Sarah Malik,1,Customer reported a concern regarding General Inquiry.
+T1012,C350,2025-01-22 09:00:00,2025-01-23 17:00:00,Phone,Technical Issue,Medium,Resolved,Meera Singh,5,Customer reported a query regarding Billing.
+T1013,C533,2025-02-14 04:00:00,2025-02-15 01:00:00,Email,Refund,High,Resolved,Rahul Verma,3,Customer reported a concern regarding General Inquiry.
+T1014,C170,2025-02-25 11:00:00,2025-02-28 11:00:00,Chat,Technical Issue,High,Resolved,Sarah Malik,4,Customer reported a problem regarding General Inquiry.
+T1015,C686,2025-02-22 00:00:00,2025-02-23 21:00:00,App,Refund,Medium,In Progress,Rahul Verma,4,Customer reported a issue regarding Technical Issue.
+T1016,C807,2025-01-08 20:00:00,2025-01-09 17:00:00,Chat,Account,Low,Closed,Meera Singh,1,Customer reported a query regarding Account.
+T1017,C917,2025-01-21 22:00:00,2025-01-23 12:00:00,Chat,General Inquiry,Low,Closed,Meera Singh,2,Customer reported a concern regarding Technical Issue.
+T1018,C647,2025-02-24 09:00:00,2025-02-24 12:00:00,Phone,General Inquiry,Medium,In Progress,Rahul Verma,1,Customer reported a issue regarding Account.
+T1019,C624,2025-01-07 15:00:00,2025-01-09 02:00:00,Chat,Refund,Urgent,Closed,Aisha Khan,5,Customer reported a concern regarding General Inquiry.
+T1020,C943,2025-01-29 23:00:00,2025-01-31 12:00:00,Phone,General Inquiry,Low,Open,Aisha Khan,1,Customer reported a concern regarding General Inquiry.
+T1021,C460,2025-02-22 01:00:00,2025-02-24 17:00:00,App,Account,Urgent,Closed,Aisha Khan,2,Customer reported a concern regarding Technical Issue.
+T1022,C823,2025-02-16 16:00:00,2025-02-16 23:00:00,Chat,Billing,Low,Resolved,Aisha Khan,4,Customer reported a concern regarding General Inquiry.
+T1023,C976,2025-02-03 09:00:00,2025-02-04 23:00:00,Chat,Refund,Low,Open,Sarah Malik,4,Customer reported a problem regarding General Inquiry.
+T1024,C905,2025-01-03 02:00:00,2025-01-03 19:00:00,App,Billing,Medium,Closed,Aisha Khan,4,Customer reported a query regarding Technical Issue.
+T1025,C721,2025-03-02 20:00:00,2025-03-03 03:00:00,Email,General Inquiry,Medium,Closed,Rahul Verma,3,Customer reported a issue regarding Billing.
+T1026,C797,2025-01-27 16:00:00,2025-01-28 19:00:00,Chat,Technical Issue,High,In Progress,Aisha Khan,5,Customer reported a issue regarding General Inquiry.
+T1027,C834,2025-02-13 12:00:00,2025-02-13 23:00:00,Email,General Inquiry,Low,Closed,John Carter,5,Customer reported a problem regarding Account.
+T1028,C291,2025-01-19 02:00:00,2025-01-20 11:00:00,Phone,General Inquiry,Medium,Open,Aisha Khan,4,Customer reported a query regarding General Inquiry.
+T1029,C572,2025-01-29 14:00:00,2025-01-30 08:00:00,App,Refund,Medium,Open,Meera Singh,3,Customer reported a problem regarding Technical Issue.
+T1030,C152,2025-02-03 12:00:00,2025-02-04 05:00:00,Phone,General Inquiry,Low,Closed,Aisha Khan,4,Customer reported a problem regarding Billing.
+T1031,C755,2025-02-19 18:00:00,2025-02-21 11:00:00,Email,Refund,Urgent,In Progress,Meera Singh,1,Customer reported a issue regarding Account.
+T1032,C273,2025-03-02 15:00:00,2025-03-04 06:00:00,Chat,General Inquiry,Urgent,In Progress,Sarah Malik,5,Customer reported a problem regarding Account.
+T1033,C349,2025-01-07 08:00:00,2025-01-07 14:00:00,Chat,General Inquiry,High,Resolved,Aisha Khan,4,Customer reported a query regarding Refund.
+T1034,C812,2025-02-27 06:00:00,2025-02-28 14:00:00,App,Technical Issue,Urgent,Open,Rahul Verma,2,Customer reported a query regarding Technical Issue.
+T1035,C774,2025-02-24 20:00:00,2025-02-25 23:00:00,App,Account,Low,Open,Sarah Malik,1,Customer reported a issue regarding Account.
+T1036,C387,2025-01-08 05:00:00,2025-01-09 21:00:00,Chat,Technical Issue,Low,Resolved,Aisha Khan,5,Customer reported a query regarding Billing.
+T1037,C486,2025-03-02 10:00:00,2025-03-03 10:00:00,App,Refund,Medium,In Progress,Rahul Verma,1,Customer reported a issue regarding Account.
+T1038,C451,2025-02-05 06:00:00,2025-02-06 10:00:00,App,Technical Issue,Urgent,Closed,Meera Singh,2,Customer reported a problem regarding Technical Issue.
+T1039,C118,2025-02-17 21:00:00,2025-02-20 11:00:00,Chat,Billing,Low,Open,Meera Singh,2,Customer reported a issue regarding Technical Issue.
+T1040,C429,2025-01-07 12:00:00,2025-01-09 01:00:00,Chat,Billing,High,In Progress,John Carter,3,Customer reported a query regarding Account.
+T1041,C751,2025-03-01 11:00:00,2025-03-02 01:00:00,App,General Inquiry,Medium,Closed,John Carter,3,Customer reported a concern regarding Account.
+T1042,C128,2025-02-22 00:00:00,2025-02-22 21:00:00,Phone,General Inquiry,Urgent,In Progress,John Carter,3,Customer reported a issue regarding Refund.
+T1043,C933,2025-01-31 15:00:00,2025-02-03 01:00:00,App,Technical Issue,Urgent,Resolved,Rahul Verma,4,Customer reported a problem regarding Technical Issue.
+T1044,C994,2025-02-11 06:00:00,2025-02-12 11:00:00,Chat,Billing,Medium,Open,John Carter,2,Customer reported a query regarding General Inquiry.
+T1045,C313,2025-01-15 20:00:00,2025-01-18 05:00:00,Chat,Account,Urgent,Resolved,Sarah Malik,4,Customer reported a problem regarding Refund.
+T1046,C917,2025-01-19 18:00:00,2025-01-22 14:00:00,Chat,Account,High,Resolved,Sarah Malik,3,Customer reported a problem regarding Refund.
+T1047,C589,2025-01-23 17:00:00,2025-01-23 21:00:00,App,Technical Issue,Low,Open,John Carter,2,Customer reported a concern regarding General Inquiry.
+T1048,C351,2025-01-20 14:00:00,2025-01-21 05:00:00,App,Refund,Medium,Resolved,Aisha Khan,2,Customer reported a problem regarding Account.
+T1049,C425,2025-01-16 19:00:00,2025-01-19 12:00:00,Chat,General Inquiry,Urgent,Closed,Aisha Khan,3,Customer reported a query regarding Technical Issue.
+T1050,C780,2025-01-18 02:00:00,2025-01-18 12:00:00,Email,Account,Low,In Progress,John Carter,1,Customer reported a problem regarding Refund.
+T1051,C721,2025-02-05 12:00:00,2025-02-06 10:00:00,Chat,Refund,Urgent,Open,Meera Singh,1,Customer reported a issue regarding Technical Issue.
+T1052,C276,2025-02-03 23:00:00,2025-02-04 09:00:00,Phone,Refund,High,Resolved,Aisha Khan,3,Customer reported a concern regarding Refund.
+T1053,C369,2025-01-10 05:00:00,2025-01-12 11:00:00,Phone,Billing,Medium,Closed,John Carter,1,Customer reported a query regarding Refund.
+T1054,C644,2025-01-10 09:00:00,2025-01-11 02:00:00,App,Technical Issue,Medium,In Progress,Sarah Malik,5,Customer reported a issue regarding Refund.
+T1055,C610,2025-01-08 07:00:00,2025-01-10 03:00:00,Phone,Billing,Low,Resolved,Rahul Verma,4,Customer reported a problem regarding General Inquiry.
+T1056,C198,2025-02-06 03:00:00,2025-02-06 21:00:00,App,Refund,Urgent,In Progress,Meera Singh,5,Customer reported a concern regarding Account.
+T1057,C303,2025-02-01 04:00:00,2025-02-04 00:00:00,Chat,Refund,Urgent,Resolved,Sarah Malik,4,Customer reported a problem regarding Refund.
+T1058,C575,2025-01-01 12:00:00,2025-01-02 20:00:00,App,Technical Issue,High,Closed,John Carter,4,Customer reported a query regarding Account.
+T1059,C723,2025-02-06 01:00:00,2025-02-06 23:00:00,Phone,Billing,Low,In Progress,John Carter,4,Customer reported a concern regarding Technical Issue.
+T1060,C287,2025-01-21 21:00:00,2025-01-22 01:00:00,Phone,General Inquiry,Low,Resolved,Sarah Malik,3,Customer reported a problem regarding Technical Issue.
+T1061,C668,2025-01-09 09:00:00,2025-01-12 07:00:00,Chat,Technical Issue,Medium,Open,Meera Singh,5,Customer reported a concern regarding Account.
+T1062,C775,2025-02-24 06:00:00,2025-02-24 17:00:00,App,Technical Issue,Medium,In Progress,Rahul Verma,2,Customer reported a problem regarding Billing.
+T1063,C553,2025-01-06 21:00:00,2025-01-07 22:00:00,Phone,Account,Low,Open,Aisha Khan,5,Customer reported a query regarding General Inquiry.
+T1064,C164,2025-01-26 09:00:00,2025-01-27 20:00:00,Phone,Billing,Medium,Resolved,John Carter,2,Customer reported a query regarding Account.
+T1065,C379,2025-01-08 05:00:00,2025-01-08 19:00:00,Chat,Technical Issue,Urgent,Resolved,John Carter,4,Customer reported a issue regarding Technical Issue.
+T1066,C169,2025-01-27 19:00:00,2025-01-30 03:00:00,Email,Technical Issue,Low,Closed,John Carter,3,Customer reported a query regarding Technical Issue.
+T1067,C227,2025-01-23 23:00:00,2025-01-25 08:00:00,Phone,Account,Urgent,In Progress,Meera Singh,3,Customer reported a query regarding Technical Issue.
+T1068,C862,2025-01-28 15:00:00,2025-01-28 18:00:00,Phone,General Inquiry,High,Resolved,Rahul Verma,4,Customer reported a concern regarding Refund.
+T1069,C792,2025-01-27 11:00:00,2025-01-29 23:00:00,Email,Technical Issue,Urgent,Resolved,Rahul Verma,2,Customer reported a concern regarding Billing.
+T1070,C488,2025-01-13 16:00:00,2025-01-14 03:00:00,Phone,Billing,Urgent,Closed,Aisha Khan,2,Customer reported a concern regarding Technical Issue.
+T1071,C163,2025-01-23 12:00:00,2025-01-23 17:00:00,Email,Technical Issue,Medium,In Progress,Sarah Malik,5,Customer reported a query regarding Billing.
+T1072,C151,2025-01-05 19:00:00,2025-01-07 01:00:00,Chat,Billing,Medium,Closed,Sarah Malik,5,Customer reported a problem regarding Billing.
+T1073,C354,2025-01-17 14:00:00,2025-01-19 03:00:00,App,General Inquiry,Urgent,Open,Rahul Verma,3,Customer reported a issue regarding General Inquiry.
+T1074,C835,2025-02-21 12:00:00,2025-02-23 11:00:00,App,Technical Issue,Low,Resolved,Rahul Verma,2,Customer reported a query regarding Technical Issue.
+T1075,C608,2025-01-30 13:00:00,2025-02-01 21:00:00,Phone,General Inquiry,High,Closed,Aisha Khan,3,Customer reported a query regarding Technical Issue.
+T1076,C470,2025-02-26 04:00:00,2025-02-28 10:00:00,Email,Account,Urgent,Open,Aisha Khan,4,Customer reported a concern regarding Technical Issue.
+T1077,C617,2025-01-26 15:00:00,2025-01-28 08:00:00,Chat,Technical Issue,Medium,In Progress,Sarah Malik,3,Customer reported a query regarding General Inquiry.
+T1078,C282,2025-02-03 12:00:00,2025-02-05 13:00:00,App,Refund,Urgent,Closed,Meera Singh,1,Customer reported a issue regarding Technical Issue.
+T1079,C298,2025-02-18 16:00:00,2025-02-21 13:00:00,App,Technical Issue,Low,Closed,Aisha Khan,1,Customer reported a issue regarding Billing.
